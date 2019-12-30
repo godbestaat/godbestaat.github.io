@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "vaccinaties"
+title:  "Vaccinaties"
 date:   2019-12-30 15:20:49 +0100
 categories: vaccinaties
 ---
